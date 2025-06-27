@@ -1,7 +1,5 @@
 # 🏆 Teste Frontend - Monitoramento de Equipamentos
 
-![Aiko](img/aiko.png)
-
 ## 🚀 Sobre o Projeto
 
 Este projeto é uma aplicação web para monitoramento de equipamentos em operações florestais. A aplicação permite visualizar a posição atual dos equipamentos em um mapa, seus estados e histórico de operação.
@@ -13,10 +11,6 @@ Este projeto é uma aplicação web para monitoramento de equipamentos em opera�
 - Tailwind CSS
 - Leaflet (mapas)
 - Vite
-
-## 🎥 Vídeo de Apresentação
-
-[![Vídeo de Apresentação](https://img.shields.io/badge/Assistir-Vídeo%20de%20Apresentação-blue)](https://drive.google.com/file/d/1BQsiyPiqAtjXLLLS1KgyLWDpuzCqSC0u/view?usp=drive_link)
 
 ## 📋 Funcionalidades
 
